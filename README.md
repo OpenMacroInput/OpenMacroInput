@@ -6,3 +6,7 @@ Website: https://openmacroinput.com/
 💬 Ask me about or  📫 How to reach me:   
 https://eloistree.page.link/discord  
 
+
+- OMI:Main tool
+- JOMI:Java Portable light tool
+- BOMI:Bluetooth Arduino tools.
