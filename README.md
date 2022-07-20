@@ -15,3 +15,16 @@ https://eloistree.page.link/discord
 - OMI:Main tool
 - JOMI:Java Portable light tool
 - BOMI:Bluetooth Arduino tools.
+
+
+
+
+# Minimum Viable Open Macro Input
+
+You want to create an application like OMI without all tools in it.
+You can find the Minimum Viable version here:  
+- [GitLink coming soon]
+
+It is composed of  
+- Generic Interpreter: [2022_07_12_GenericAuctionInterpretors](https://github.com/OpenMacroInput/2022_07_12_GenericAuctionInterpretors)
+- OMI Com Layer: [GitLink coming soon]
