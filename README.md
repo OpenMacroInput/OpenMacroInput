@@ -27,4 +27,6 @@ You can find the Minimum Viable version here:
 
 It is composed of  
 - Generic Interpreter: [2022_07_12_GenericAuctionInterpretors](https://github.com/OpenMacroInput/2022_07_12_GenericAuctionInterpretors)
+   - Sub module for ICommandLine:  [GitLink coming soon]
+   - Sub Module for IShortcutAsText:  [GitLink coming soon]
 - OMI Com Layer: [GitLink coming soon]
