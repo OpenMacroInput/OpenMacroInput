@@ -33,8 +33,9 @@ It is composed of
 
 
 # Note 
-I am not a good developer so I can't guarantie that this program will survive to 10-20 years time.
+I am not a good developer so I can't guarantie that this program will survive to 15-20+ years time.
 But my aim to to create 60-80% of the application untemporal. Meaning that it should still work in 90 years.
 At least until I die as this project is my lifetime project.
 
 The main weak point of my project to be untemporal is Unity3D but I as I plan to do AR/VR with this project I can't skip it in the first 10 years of the project.
+Plus Unity has two major point, Compute Shader and Job System that open door not available in other engine.
