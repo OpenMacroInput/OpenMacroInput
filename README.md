@@ -45,7 +45,9 @@ Plus Unity has two major point, Compute Shader and Job System that open door not
 # Note: Elon Musk 'Merge'
 A nerdy way to understand my project is this concept that Elon Musk said in an interview:  
 ["We need to make that tiny staw like a giant river"](https://youtu.be/MYfDtSCvex0?t=295)    
-https://youtu.be/MYfDtSCvex0?t=295  
+https://youtu.be/MYfDtSCvex0?t=295    
+[![image](https://user-images.githubusercontent.com/99685407/187027454-91ed8035-c424-488f-87c9-5d425182ae70.png)](https://youtu.be/MYfDtSCvex0?t=295)  
+
 >It’s just that the data rate ... it’s slow, very slow. It’s like a tiny straw of information flow between your biological self and your digital self. We need to make that tiny straw like a giant river, a huge, high-bandwidth interface.”  
   
 The goal of this project is to communicate better with the computer(s) and with the coming AI(s) to improve our live together. For: working, playing, living.  
