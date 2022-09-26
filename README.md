@@ -7,6 +7,7 @@
 
 
 Website: https://openmacroinput.com/
+Discord: https://discord.gg/hF8YvqYwMx
 
 💬 Ask me about or  📫 How to reach me:   
 https://eloistree.page.link/discord  
