@@ -1,3 +1,8 @@
+✨ Download Last Stable Version:  
+https://openmacroinput.itch.io/openmacroinput    
+
+----------------------------------------------------
+
 ### Open Macro Input Welcome page 👋
 
 The goal of this project is to communicate better with the computer(s) and with the coming AI(s) to improve our live together.
@@ -27,12 +32,8 @@ A nerdy way to understand my project is this concept that Elon Musk said in an i
 > It’s just that the data rate ... it’s slow, very slow. It’s like a tiny straw of information flow between your biological self and your digital self. We need to make that tiny straw like a giant river, a huge, high-bandwidth interface.”  
 
 
-✨ Download Last Stable Version:  
-https://openmacroinput.itch.io/openmacroinput    
 Support OMI Discord: https://discord.gg/hF8YvqYwMx
 Support of the creator: https://eloi.page.link/discord  
-
-
 
 
 ### Warning  
