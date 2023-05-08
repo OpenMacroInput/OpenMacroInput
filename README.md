@@ -7,7 +7,7 @@ I create this tool to
 - help me in my game and my work
 - help me create virtual keyboard for XR
 
-By having fun creating this tool, I realize that I can be usefull to:
+By having fun creating this tool, I realizee that I can be usefull to:
 - People with disability that still want to use computer
 - Software user that works with repetitive task: blender, photoshop, modeling...
 - Video game tester that need to stress test their game mechanic with good timing
