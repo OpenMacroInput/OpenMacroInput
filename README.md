@@ -29,12 +29,10 @@ A nerdy way to understand my project is this concept that Elon Musk said in an i
 
 ✨ Download Last Stable Version:  
 https://openmacroinput.itch.io/openmacroinput    
+Support OMI Discord: https://discord.gg/hF8YvqYwMx
+Support of the creator: https://eloi.page.link/discord  
 
-Website: https://openmacroinput.com/
-Discord: https://discord.gg/hF8YvqYwMx
 
-💬 Ask me about or  📫 How to reach me:   
-https://eloi.page.link/discord  
 
 
 ### Warning  
