@@ -14,7 +14,7 @@ By having fun creating this tool, I realizee that I can be usefull to:
 - Creative that need specific keyboard for them, or event, without heavy code behind
 - Video game player that can enhance their game.
 - Multiboxer & bots maker that need to play on several game or several computer
-- Kickstarter maker that want to create without having to interface macro and keystore
+- Kickstarter maker that want to create without having to interface macro and key stroke
 - ...
 
 As you can see the list can go on and on.
