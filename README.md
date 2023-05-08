@@ -1,50 +1,46 @@
 ### Open Macro Input Welcome page 👋
 
-✨ Download Last Stable Version: https://openmacroinput.itch.io/openmacroinput  
+The goal of this project is to communicate better with the computer(s) and with the coming AI(s) to improve our live together.
+
+I create this tool to 
+- help my sister
+- help me in my game and my work
+- help me create virtual keyboard for XR
+
+By having fun creating this tool, I realize that I can be usefull to:
+- People with disability that still want to use computer
+- Software user that works with repetitive task: blender, photoshop, modeling...
+- Video game tester that need to stress test their game mechanic with good timing
+- Creative that need specific keyboard for them, or event, without heavy code behind
+- Video game player that can enhance their game.
+- Multiboxer & bots maker that need to play on several game or several computer
+- Kickstarter maker that want to create without having to interface macro and keystore
+- ...
+
+As you can see the list can go on and on.
+
+Basicaly, I am creating a "no code" macro tool that can be share between the community and that still allows developer to hook & mod to the tool. 
+It must be as easy as possible for none developer community but flexible enough for developer to help the community.
+
+A nerdy way to understand my project is this concept that Elon Musk said in an interview:  
+["We need to make that tiny staw like a giant river"](https://youtu.be/MYfDtSCvex0?t=295)    
+> It’s just that the data rate ... it’s slow, very slow. It’s like a tiny straw of information flow between your biological self and your digital self. We need to make that tiny straw like a giant river, a huge, high-bandwidth interface.”  
+
+
+✨ Download Last Stable Version:  
+https://openmacroinput.itch.io/openmacroinput    
 
 Website: https://openmacroinput.com/
 Discord: https://discord.gg/hF8YvqYwMx
 
 💬 Ask me about or  📫 How to reach me:   
-https://eloistree.page.link/discord  
+https://eloi.page.link/discord  
 
 
-- OMI:Main tool
-- JOMI:Java Portable light tool
-- BOMI:Bluetooth Arduino tools.
+### Warning  
+I am not an excellent developer.
+This tool is already usefull but under development.
+It will take a lot's of time to make this tool a stable version.
 
 
-
-
-# Minimum Viable Open Macro Input
-
-You want to create an application like OMI without all tools in it.
-You can find the Minimum Viable version here:  
-- [GitLink coming soon]
-
-It is composed of  
-- Generic Interpreter: [2022_07_12_GenericAuctionInterpretors](https://github.com/OpenMacroInput/2022_07_12_GenericAuctionInterpretors)
-   - Sub module for ICommandLine:  [GitLink coming soon]
-   - Sub Module for IShortcutAsText:  [GitLink coming soon]
-- OMI Com Layer: [GitLink coming soon]
-
-
-# Note 
-I am not a good developer so I can't guarantie that this program will survive to 15-20+ years time.
-But my aim to to create 60-80% of the application untemporal. Meaning that it should still work in 90 years.
-At least until I die as this project is my lifetime project.
-
-The main weak point of my project to be untemporal is Unity3D but I as I plan to do AR/VR with this project I can't skip it in the first 10 years of the project.
-Plus Unity has two major point, Compute Shader and Job System that open door not available in other engine.
-
-
-
-# Note: Elon Musk 'Merge'
-A nerdy way to understand my project is this concept that Elon Musk said in an interview:  
-["We need to make that tiny staw like a giant river"](https://youtu.be/MYfDtSCvex0?t=295)    
-https://youtu.be/MYfDtSCvex0?t=295    
-[![image](https://user-images.githubusercontent.com/99685407/187027454-91ed8035-c424-488f-87c9-5d425182ae70.png)](https://youtu.be/MYfDtSCvex0?t=295)  
-
->It’s just that the data rate ... it’s slow, very slow. It’s like a tiny straw of information flow between your biological self and your digital self. We need to make that tiny straw like a giant river, a huge, high-bandwidth interface.”  
   
-The goal of this project is to communicate better with the computer(s) and with the coming AI(s) to improve our live together. For: working, playing, living.  
