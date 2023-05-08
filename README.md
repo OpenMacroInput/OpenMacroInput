@@ -32,14 +32,15 @@ A nerdy way to understand my project is this concept that Elon Musk said in an i
 > It’s just that the data rate ... it’s slow, very slow. It’s like a tiny straw of information flow between your biological self and your digital self. We need to make that tiny straw like a giant river, a huge, high-bandwidth interface.”  
 
 
-Support OMI Discord: https://discord.gg/hF8YvqYwMx
-Support of the creator: https://eloi.page.link/discord  
+Support OMI Discord: https://discord.gg/hF8YvqYwMx  
+Support of the creator: https://eloi.page.link/discord    
 
 
 ### Warning  
-I am not an excellent developer.
-This tool is already usefull but under development.
-It will take a lot's of time to make this tool a stable version.
+
+I am not an excellent developer.  
+This tool is already usefull but under development.  
+It will take a lot's of time to make this tool a stable version.  
 
 
   
