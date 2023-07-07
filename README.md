@@ -1,6 +1,9 @@
 ✨ Download Last Stable Version:  
 https://openmacroinput.itch.io/openmacroinput    
 
+📕 Read Documentation & Tutorial:  
+https://github.com/OpenMacroInput/Documentation  
+
 ----------------------------------------------------
 
 ### Open Macro Input Welcome page 👋
