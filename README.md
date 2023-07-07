@@ -8,9 +8,9 @@ https://openmacroinput.itch.io/openmacroinput
 The goal of this project is to communicate better with the computer(s) and with the coming AI(s) to improve our live together.
 
 I create this tool to 
-- help my sister
 - help me in my game and my work
 - help me create virtual keyboard for XR
+- help my sister
 
 By having fun creating this tool, I realizee that I can be usefull to:
 - People with disability that still want to use computer
