@@ -46,4 +46,14 @@ This tool is already usefull but under development.
 It will take a lot's of time to make this tool a stable version.  
 
 
+
+--------------
+
+Reminder of what when want and need to be:  
+"You are paying for an all-i-one button remapping universal device accepting software editing piece of genius that is honestly not even comparable to competition"  
+I really need my software to be, one day, that good xD
+[![image](https://github.com/OpenMacroInput/OpenMacroInput/assets/99685407/91f4d588-3675-4ce3-85d8-ccbec59cff13)](https://youtu.be/Z00RNV9M9gg?t=532)  
+https://youtu.be/Z00RNV9M9gg?t=532  
+
+
   
