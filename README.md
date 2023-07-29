@@ -57,7 +57,7 @@ Support of the creator: https://eloi.page.link/discord
 
 --------------
 
-A youtuber said while talking about reWASD:
+A youtuber said while talking about [reWASD](https://www.rewasd.com/):
 "You are paying for an all-i-one button remapping universal device accepting software editing piece of genius that is honestly not even comparable to competition"  
 I want my software to be, one day, that good too 😁  
 
