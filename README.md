@@ -1,9 +1,19 @@
-✨ Download Last Stable Version:  
-https://openmacroinput.itch.io/openmacroinput    
+✨ Download Old Version and Sample:  
+[https://openmacroinput.itch.io/openmacroinput](https://openmacroinput.itch.io/openmacroinput)    
+
+💻 Download current in Developement:  
+[https://github.com/EloiStree/EloiStree/blob/master/DownloadBundleOMI.md](https://github.com/EloiStree/EloiStree/blob/master/DownloadBundleOMI.md)   
 
 📕 Read Documentation & Tutorial:  
-https://github.com/OpenMacroInput/Documentation  
+[https://github.com/OpenMacroInput/Documentation](https://github.com/OpenMacroInput/Documentation) 
 
+🔑 All code(s):
+- [https://github.com/EloiStree?tab=repositories](https://github.com/EloiStree?tab=repositories)
+- [https://github.com/OpenMacroInput?tab=repositories](https://github.com/OpenMacroInput?tab=repositories)
+
+💰 Invest on the project:
+- On Tipeee (EU) [https://eloi.page.link/tipeee](https://eloi.page.link/tipeee)
+- On Patreon (USA) [https://eloi.page.link/patreon](https://eloi.page.link/patreon)
 
 Repository list:
 - [Learn about the project](https://github.com/stars/OpenMacroInput/lists/public-business-and-pitch)
@@ -62,7 +72,7 @@ A youtuber said while talking about [reWASD](https://www.rewasd.com/):
 I want my software to be, one day, that good too 😁  
 
 [![image](https://github.com/OpenMacroInput/OpenMacroInput/assets/99685407/91f4d588-3675-4ce3-85d8-ccbec59cff13)](https://youtu.be/Z00RNV9M9gg?t=532)  
-https://youtu.be/Z00RNV9M9gg?t=532  
+[https://youtu.be/Z00RNV9M9gg?t=532](https://youtu.be/Z00RNV9M9gg?t=532)
 
 
   
