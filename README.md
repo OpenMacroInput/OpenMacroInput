@@ -4,6 +4,14 @@ https://openmacroinput.itch.io/openmacroinput
 📕 Read Documentation & Tutorial:  
 https://github.com/OpenMacroInput/Documentation  
 
+
+Repository list:
+- [Learn about the project](https://github.com/stars/OpenMacroInput/lists/public-business-and-pitch)
+- [Read the documentation](https://github.com/stars/OpenMacroInput/lists/omi-documentation)
+- [Core Package of the project](https://github.com/stars/OpenMacroInput/lists/omi-core-code)
+- [Third application design by us](https://github.com/stars/OpenMacroInput/lists/omi-third-application-official)
+- [Third application design by the community](https://github.com/stars/OpenMacroInput/lists/omi-third-application-community)
+
 ----------------------------------------------------
 
 ### Open Macro Input Welcome page 👋
