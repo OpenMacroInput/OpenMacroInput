@@ -15,12 +15,19 @@
 - On Tipeee (EU) [https://eloi.page.link/tipeee](https://eloi.page.link/tipeee)
 - On Patreon (USA) [https://eloi.page.link/patreon](https://eloi.page.link/patreon)
 
-Repository list:
+## Repository list:
 - [Learn about the project](https://github.com/stars/OpenMacroInput/lists/public-business-and-pitch)
 - [Read the documentation](https://github.com/stars/OpenMacroInput/lists/omi-documentation)
 - [Core Package of the project](https://github.com/stars/OpenMacroInput/lists/omi-core-code)
 - [Third application design by us](https://github.com/stars/OpenMacroInput/lists/omi-third-application-official)
 - [Third application design by the community](https://github.com/stars/OpenMacroInput/lists/omi-third-application-community)
+
+## Redirection Links:
+Learn about Open Macro input :
+[About](https://openmacroinput.github.io/r/about) - [Learn](https://openmacroinput.github.io/r/learn) - [API](https://openmacroinput.github.io/r/api) - [Invest](https://openmacroinput.github.io/r/invest) - [Download](https://openmacroinput.github.io/r/download)  
+Learn about Eloi Stree :
+[About](https://eloistree.github.io/r/about) - [Portfolio](https://eloistree.github.io/r/portfolio) - [Service](https://eloistree.github.io/r/service) - [Contact](https://eloistree.github.io/r/contact) - [Download](https://eloistree.github.io/r/download)  
+
 
 ----------------------------------------------------
 
