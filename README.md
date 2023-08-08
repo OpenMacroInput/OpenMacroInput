@@ -14,6 +14,7 @@
 💰 Invest on the project:
 - On Tipeee (EU) [https://eloi.page.link/tipeee](https://eloi.page.link/tipeee)
 - On Patreon (USA) [https://eloi.page.link/patreon](https://eloi.page.link/patreon)
+- By [Discord](https://donatebot.io/checkout/999702454725771284)
 
 ## Repository list:
 - [Learn about the project](https://github.com/stars/OpenMacroInput/lists/public-business-and-pitch)
